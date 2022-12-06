@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 ejercicio 7
+=======
+ejercicio 7
+>>>>>>> develop
